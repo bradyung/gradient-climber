@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GradientClimber")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+281d1834d4e2507554782e02d523588774a5ea02")]
 [assembly: System.Reflection.AssemblyProductAttribute("GradientClimber")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GradientClimber")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

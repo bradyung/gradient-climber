@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ybrad\\Downloads\\GradientClimberFixed\\GradientClimberFixed\\GradientClimber.csproj": {}
+    "C:\\Users\\ybrad\\Documents\\git\\escape-the-pit\\GradientClimberFixed\\GradientClimber.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ybrad\\Downloads\\GradientClimberFixed\\GradientClimberFixed\\GradientClimber.csproj": {
+    "C:\\Users\\ybrad\\Documents\\git\\escape-the-pit\\GradientClimberFixed\\GradientClimber.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ybrad\\Downloads\\GradientClimberFixed\\GradientClimberFixed\\GradientClimber.csproj",
+        "projectUniqueName": "C:\\Users\\ybrad\\Documents\\git\\escape-the-pit\\GradientClimberFixed\\GradientClimber.csproj",
         "projectName": "GradientClimber",
-        "projectPath": "C:\\Users\\ybrad\\Downloads\\GradientClimberFixed\\GradientClimberFixed\\GradientClimber.csproj",
+        "projectPath": "C:\\Users\\ybrad\\Documents\\git\\escape-the-pit\\GradientClimberFixed\\GradientClimber.csproj",
         "packagesPath": "C:\\Users\\ybrad\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ybrad\\Downloads\\GradientClimberFixed\\GradientClimberFixed\\obj\\",
+        "outputPath": "C:\\Users\\ybrad\\Documents\\git\\escape-the-pit\\GradientClimberFixed\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ybrad\\AppData\\Roaming\\NuGet\\NuGet.Config"
