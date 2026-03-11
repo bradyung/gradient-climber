@@ -44,7 +44,7 @@ namespace GradientClimber
         private int _bigHintFrames = 0;
 
         private bool[,] _explored;
-        private readonly int _fogRadiusCells = 10;
+        private readonly int _fogRadiusCells = 12;
 
         private bool _showPeakAfterWin = false;
         private bool _showSmallGradientArrow = true;
